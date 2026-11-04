@@ -1,0 +1,2 @@
+require("karthick")
+print("hello")
